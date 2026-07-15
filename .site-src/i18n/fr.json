@@ -124,11 +124,11 @@
       "privacy_blurb": "Votre historique de jeûne ne quitte jamais votre iPhone.",
       "disclaimer": "FastZen est un outil de minuterie et de suivi, pas un avis médical. Consultez un professionnel de santé avant de commencer tout jeûne."
     },
-    "mathspark": {
-      "tagline": "Un puzzle par jour. Le monde entier joue.",
+    "numzen": {
+      "tagline": "Trois casse-têtes par jour. Le monde entier joue.",
       "card_desc": "Des puzzles de calcul mental quotidiens avec des indices qui enseignent.",
       "subtitle": "Des puzzles de calcul mental quotidiens : le même défi pour tout le monde, avec des indices qui enseignent au lieu de révéler.",
-      "meta_desc": "MathSpark propose des puzzles numériques quotidiens : le même défi pour tous, avec des indices pédagogiques. Entièrement hors ligne et privé.",
+      "meta_desc": "NumZen propose des puzzles numériques quotidiens : le même défi pour tous, avec des indices pédagogiques. Entièrement hors ligne et privé.",
       "features": [
         {
           "t": "Défi mondial quotidien",
@@ -144,10 +144,10 @@
         },
         {
           "t": "Premium en achat unique",
-          "d": "Entraînement illimité, difficultés supérieures et statistiques complètes. Sans abonnement."
+          "d": "Entraînement illimité, à vous pour toujours. Sans abonnement."
         }
       ],
-      "privacy_blurb": "MathSpark fonctionne entièrement hors ligne et ne collecte rien.",
+      "privacy_blurb": "NumZen fonctionne entièrement hors ligne et ne collecte rien.",
       "disclaimer": ""
     }
   },

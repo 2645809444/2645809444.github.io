@@ -124,11 +124,11 @@
       "privacy_blurb": "Lịch sử nhịn ăn của bạn không bao giờ rời iPhone.",
       "disclaimer": "FastZen là công cụ hẹn giờ và ghi chép, không phải lời khuyên y tế. Hãy tham khảo chuyên gia y tế trước khi bắt đầu nhịn ăn."
     },
-    "mathspark": {
-      "tagline": "Mỗi ngày một câu đố. Cả thế giới cùng chơi.",
+    "numzen": {
+      "tagline": "Ba câu đố mỗi ngày. Cả thế giới cùng chơi.",
       "card_desc": "Câu đố tính nhẩm hằng ngày với gợi ý mang tính dạy học.",
       "subtitle": "Câu đố tính nhẩm hằng ngày — cùng một thử thách cho mọi người trên thế giới, với gợi ý dạy cách nghĩ thay vì tiết lộ đáp án.",
-      "meta_desc": "MathSpark mang đến câu đố số học hằng ngày — cùng một thử thách cho tất cả, gợi ý mang tính dạy học. Hoàn toàn ngoại tuyến và riêng tư.",
+      "meta_desc": "NumZen mang đến câu đố số học hằng ngày — cùng một thử thách cho tất cả, gợi ý mang tính dạy học. Hoàn toàn ngoại tuyến và riêng tư.",
       "features": [
         {
           "t": "Thử thách toàn cầu hằng ngày",
@@ -144,10 +144,10 @@
         },
         {
           "t": "Premium mua một lần",
-          "d": "Luyện tập không giới hạn, độ khó cao hơn và thống kê đầy đủ. Không đăng ký."
+          "d": "Luyện tập không giới hạn, sở hữu vĩnh viễn. Không đăng ký thuê bao."
         }
       ],
-      "privacy_blurb": "MathSpark hoạt động hoàn toàn ngoại tuyến và không thu thập gì.",
+      "privacy_blurb": "NumZen hoạt động hoàn toàn ngoại tuyến và không thu thập gì.",
       "disclaimer": ""
     }
   },

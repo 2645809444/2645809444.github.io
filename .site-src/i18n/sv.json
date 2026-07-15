@@ -124,11 +124,11 @@
       "privacy_blurb": "Din fastehistorik lämnar aldrig din iPhone.",
       "disclaimer": "FastZen är ett timer- och loggverktyg, inte medicinsk rådgivning. Rådfråga vårdpersonal innan du börjar fasta."
     },
-    "mathspark": {
-      "tagline": "Ett pussel om dagen. Hela världen spelar.",
+    "numzen": {
+      "tagline": "Tre pussel varje dag. Hela världen spelar.",
       "card_desc": "Dagliga huvudräkningspussel med ledtrådar som lär.",
       "subtitle": "Dagliga huvudräkningspussel — samma utmaning för alla i världen, med ledtrådar som lär i stället för att avslöja.",
-      "meta_desc": "MathSpark bjuder på dagliga sifferpussel — samma utmaning för alla, med lärorika ledtrådar. Helt offline och privat.",
+      "meta_desc": "NumZen bjuder på dagliga sifferpussel — samma utmaning för alla, med lärorika ledtrådar. Helt offline och privat.",
       "features": [
         {
           "t": "Daglig global utmaning",
@@ -144,10 +144,10 @@
         },
         {
           "t": "Premium som engångsköp",
-          "d": "Obegränsad träning, högre svårigheter och full statistik. Ingen prenumeration."
+          "d": "Obegränsad träning, din för alltid. Ingen prenumeration."
         }
       ],
-      "privacy_blurb": "MathSpark fungerar helt offline och samlar inte in något.",
+      "privacy_blurb": "NumZen fungerar helt offline och samlar inte in något.",
       "disclaimer": ""
     }
   },

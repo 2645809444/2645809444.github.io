@@ -124,11 +124,11 @@
       "privacy_blurb": "Oruç geçmişiniz asla iPhone'unuzdan çıkmaz.",
       "disclaimer": "FastZen bir zamanlayıcı ve kayıt aracıdır, tıbbi tavsiye değildir. Herhangi bir oruca başlamadan önce bir sağlık uzmanına danışın."
     },
-    "mathspark": {
-      "tagline": "Günde bir bulmaca. Tüm dünya oynuyor.",
+    "numzen": {
+      "tagline": "Her gün üç bulmaca. Tüm dünya oynuyor.",
       "card_desc": "Öğreten ipuçlarıyla günlük zihinsel matematik bulmacaları.",
       "subtitle": "Günlük zihinsel matematik bulmacaları — dünyada herkese aynı meydan okuma, çözümü söylemek yerine öğreten ipuçlarıyla.",
-      "meta_desc": "MathSpark günlük sayı bulmacaları sunar — herkese aynı meydan okuma, öğreten ipuçları. Tamamen çevrimdışı ve gizli.",
+      "meta_desc": "NumZen günlük sayı bulmacaları sunar — herkese aynı meydan okuma, öğreten ipuçları. Tamamen çevrimdışı ve gizli.",
       "features": [
         {
           "t": "Günlük küresel meydan okuma",
@@ -144,10 +144,10 @@
         },
         {
           "t": "Tek seferlik Premium",
-          "d": "Sınırsız alıştırma, daha zor seviyeler ve tam istatistikler. Abonelik yok."
+          "d": "Sınırsız alıştırma, sonsuza dek sizin. Abonelik yok."
         }
       ],
-      "privacy_blurb": "MathSpark tamamen çevrimdışı çalışır ve hiçbir şey toplamaz.",
+      "privacy_blurb": "NumZen tamamen çevrimdışı çalışır ve hiçbir şey toplamaz.",
       "disclaimer": ""
     }
   },

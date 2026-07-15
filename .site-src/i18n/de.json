@@ -124,11 +124,11 @@
       "privacy_blurb": "Dein Fastenverlauf verlässt dein iPhone nie.",
       "disclaimer": "FastZen ist ein Timer- und Protokoll-Tool, kein medizinischer Rat. Sprich vor jedem Fasten mit medizinischem Fachpersonal."
     },
-    "mathspark": {
-      "tagline": "Ein Rätsel pro Tag. Die ganze Welt spielt.",
+    "numzen": {
+      "tagline": "Drei Tagesrätsel. Die ganze Welt spielt mit.",
       "card_desc": "Tägliche Kopfrechen-Rätsel mit Hinweisen, die etwas beibringen.",
       "subtitle": "Tägliche Kopfrechen-Rätsel — dieselbe Herausforderung für alle weltweit, mit Hinweisen, die lehren statt verraten.",
-      "meta_desc": "MathSpark liefert tägliche Zahlenrätsel — weltweit dieselbe Aufgabe, mit lehrreichen Hinweisen. Komplett offline und privat.",
+      "meta_desc": "NumZen liefert tägliche Zahlenrätsel — weltweit dieselbe Aufgabe, mit lehrreichen Hinweisen. Komplett offline und privat.",
       "features": [
         {
           "t": "Tägliche globale Challenge",
@@ -144,10 +144,10 @@
         },
         {
           "t": "Premium als Einmalkauf",
-          "d": "Unbegrenztes Üben, höhere Schwierigkeiten und volle Statistiken. Kein Abo."
+          "d": "Unbegrenztes Training, für immer deins. Kein Abo."
         }
       ],
-      "privacy_blurb": "MathSpark funktioniert komplett offline und sammelt nichts.",
+      "privacy_blurb": "NumZen funktioniert komplett offline und sammelt nichts.",
       "disclaimer": ""
     }
   },

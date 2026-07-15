@@ -124,11 +124,11 @@
       "privacy_blurb": "Istoricul tău de post nu părăsește niciodată iPhone-ul.",
       "disclaimer": "FastZen este un instrument de cronometrare și jurnal, nu un sfat medical. Consultă un specialist înainte de a începe orice post."
     },
-    "mathspark": {
-      "tagline": "Un puzzle pe zi. Toată lumea joacă.",
+    "numzen": {
+      "tagline": "Trei puzzle-uri pe zi. Toată lumea joacă.",
       "card_desc": "Puzzle-uri zilnice de calcul mintal cu indicii care te învață.",
       "subtitle": "Puzzle-uri zilnice de calcul mintal — aceeași provocare pentru toată lumea, cu indicii care te învață în loc să divulge.",
-      "meta_desc": "MathSpark oferă puzzle-uri numerice zilnice — aceeași provocare pentru toți, cu indicii educative. Complet offline și privat.",
+      "meta_desc": "NumZen oferă puzzle-uri numerice zilnice — aceeași provocare pentru toți, cu indicii educative. Complet offline și privat.",
       "features": [
         {
           "t": "Provocare globală zilnică",
@@ -144,10 +144,10 @@
         },
         {
           "t": "Premium cu plată unică",
-          "d": "Exerciții nelimitate, dificultăți mai mari și statistici complete. Fără abonament."
+          "d": "Practică nelimitată, a ta pentru totdeauna. Fără abonament."
         }
       ],
-      "privacy_blurb": "MathSpark funcționează complet offline și nu colectează nimic.",
+      "privacy_blurb": "NumZen funcționează complet offline și nu colectează nimic.",
       "disclaimer": ""
     }
   },

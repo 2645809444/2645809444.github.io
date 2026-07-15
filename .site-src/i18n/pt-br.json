@@ -124,11 +124,11 @@
       "privacy_blurb": "Seu histórico de jejum nunca sai do seu iPhone.",
       "disclaimer": "O FastZen é uma ferramenta de cronômetro e registro, não um conselho médico. Consulte um profissional de saúde antes de iniciar qualquer jejum."
     },
-    "mathspark": {
-      "tagline": "Um desafio por dia. O mundo todo joga.",
+    "numzen": {
+      "tagline": "Três desafios por dia. O mundo todo joga.",
       "card_desc": "Quebra-cabeças diários de cálculo mental com dicas que ensinam.",
       "subtitle": "Quebra-cabeças diários de cálculo mental: o mesmo desafio para todos no mundo, com dicas que ensinam em vez de entregar.",
-      "meta_desc": "O MathSpark traz quebra-cabeças numéricos diários: o mesmo desafio para todos, com dicas educativas. Totalmente offline e privado.",
+      "meta_desc": "O NumZen traz quebra-cabeças numéricos diários: o mesmo desafio para todos, com dicas educativas. Totalmente offline e privado.",
       "features": [
         {
           "t": "Desafio global diário",
@@ -144,10 +144,10 @@
         },
         {
           "t": "Premium de compra única",
-          "d": "Prática ilimitada, dificuldades maiores e estatísticas completas. Sem assinatura."
+          "d": "Prática ilimitada, sua para sempre. Sem assinatura."
         }
       ],
-      "privacy_blurb": "O MathSpark funciona totalmente offline e não coleta nada.",
+      "privacy_blurb": "O NumZen funciona totalmente offline e não coleta nada.",
       "disclaimer": ""
     }
   },

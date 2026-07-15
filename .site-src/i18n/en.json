@@ -124,11 +124,11 @@
       "privacy_blurb": "Your fasting history never leaves your iPhone.",
       "disclaimer": "FastZen is a timer and logging tool, not medical advice. Consult a healthcare professional before starting any fasting practice."
     },
-    "mathspark": {
-      "tagline": "One daily puzzle. The whole world plays.",
+    "numzen": {
+      "tagline": "Three daily puzzles. The whole world plays.",
       "card_desc": "Daily mental math puzzles with hints that teach.",
       "subtitle": "Daily mental math puzzles — the same challenge for everyone worldwide, with hints that teach instead of spoil.",
-      "meta_desc": "MathSpark serves daily number puzzles — the same challenge for everyone worldwide, with hints that teach. Fully offline and private.",
+      "meta_desc": "NumZen serves daily number puzzles — the same challenge for everyone worldwide, with hints that teach. Fully offline and private.",
       "features": [
         {
           "t": "Daily global challenge",
@@ -144,10 +144,10 @@
         },
         {
           "t": "One-time Premium",
-          "d": "Unlimited practice, harder difficulties and full statistics. No subscription."
+          "d": "Unlimited practice puzzles, yours forever. No subscription."
         }
       ],
-      "privacy_blurb": "MathSpark works entirely offline and collects nothing.",
+      "privacy_blurb": "NumZen works entirely offline and collects nothing.",
       "disclaimer": ""
     }
   },

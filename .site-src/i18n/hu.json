@@ -124,11 +124,11 @@
       "privacy_blurb": "A böjtelőzményeid soha nem hagyják el az iPhone-t.",
       "disclaimer": "A FastZen időzítő- és naplózóeszköz, nem orvosi tanács. Böjt megkezdése előtt konzultálj egészségügyi szakemberrel."
     },
-    "mathspark": {
-      "tagline": "Naponta egy fejtörő. Az egész világ játszik.",
+    "numzen": {
+      "tagline": "Naponta három fejtörő. Az egész világ játszik.",
       "card_desc": "Napi fejszámolós fejtörők tanító tippekkel.",
       "subtitle": "Napi fejszámolós fejtörők — ugyanaz a kihívás mindenkinek a világon, tippekkel, amelyek tanítanak, nem lelőnek.",
-      "meta_desc": "A MathSpark napi számfejtörőket kínál — ugyanaz a kihívás mindenkinek, tanító tippekkel. Teljesen offline és privát.",
+      "meta_desc": "A NumZen napi számfejtörőket kínál — ugyanaz a kihívás mindenkinek, tanító tippekkel. Teljesen offline és privát.",
       "features": [
         {
           "t": "Napi globális kihívás",
@@ -144,10 +144,10 @@
         },
         {
           "t": "Premium egyszeri vásárlással",
-          "d": "Korlátlan gyakorlás, nehezebb szintek és teljes statisztikák. Nincs előfizetés."
+          "d": "Korlátlan gyakorlás, örökre az öné. Nincs előfizetés."
         }
       ],
-      "privacy_blurb": "A MathSpark teljesen offline működik, és semmit nem gyűjt.",
+      "privacy_blurb": "A NumZen teljesen offline működik, és semmit nem gyűjt.",
       "disclaimer": ""
     }
   },

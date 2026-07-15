@@ -124,11 +124,11 @@
       "privacy_blurb": "Je vastenhistorie verlaat je iPhone nooit.",
       "disclaimer": "FastZen is een timer- en logboektool, geen medisch advies. Raadpleeg een zorgprofessional voordat je met vasten begint."
     },
-    "mathspark": {
-      "tagline": "Eén puzzel per dag. De hele wereld speelt mee.",
+    "numzen": {
+      "tagline": "Drie puzzels per dag. De hele wereld speelt mee.",
       "card_desc": "Dagelijkse hoofdrekenpuzzels met hints die je iets leren.",
       "subtitle": "Dagelijkse hoofdrekenpuzzels: dezelfde uitdaging voor iedereen wereldwijd, met hints die leren in plaats van verklappen.",
-      "meta_desc": "MathSpark biedt dagelijkse getallenpuzzels: dezelfde uitdaging voor iedereen, met leerzame hints. Volledig offline en privé.",
+      "meta_desc": "NumZen biedt dagelijkse getallenpuzzels: dezelfde uitdaging voor iedereen, met leerzame hints. Volledig offline en privé.",
       "features": [
         {
           "t": "Dagelijkse wereldwijde challenge",
@@ -144,10 +144,10 @@
         },
         {
           "t": "Eenmalige Premium-aankoop",
-          "d": "Onbeperkt oefenen, hogere moeilijkheden en volledige statistieken. Geen abonnement."
+          "d": "Onbeperkt oefenen, voor altijd van jou. Geen abonnement."
         }
       ],
-      "privacy_blurb": "MathSpark werkt volledig offline en verzamelt niets.",
+      "privacy_blurb": "NumZen werkt volledig offline en verzamelt niets.",
       "disclaimer": ""
     }
   },

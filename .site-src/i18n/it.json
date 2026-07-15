@@ -124,11 +124,11 @@
       "privacy_blurb": "La tua cronologia di digiuno non lascia mai il tuo iPhone.",
       "disclaimer": "FastZen è uno strumento di timer e registrazione, non un consiglio medico. Consulta un professionista sanitario prima di iniziare qualsiasi digiuno."
     },
-    "mathspark": {
-      "tagline": "Un puzzle al giorno. Gioca tutto il mondo.",
+    "numzen": {
+      "tagline": "Tre enigmi al giorno. Gioca il mondo intero.",
       "card_desc": "Puzzle quotidiani di calcolo mentale con indizi che insegnano.",
       "subtitle": "Puzzle quotidiani di calcolo mentale: la stessa sfida per tutti nel mondo, con indizi che insegnano invece di svelare.",
-      "meta_desc": "MathSpark offre puzzle numerici quotidiani: la stessa sfida per tutti, con indizi educativi. Completamente offline e privato.",
+      "meta_desc": "NumZen offre puzzle numerici quotidiani: la stessa sfida per tutti, con indizi educativi. Completamente offline e privato.",
       "features": [
         {
           "t": "Sfida globale quotidiana",
@@ -144,10 +144,10 @@
         },
         {
           "t": "Premium con acquisto unico",
-          "d": "Pratica illimitata, difficoltà maggiori e statistiche complete. Niente abbonamento."
+          "d": "Pratica illimitata, tua per sempre. Nessun abbonamento."
         }
       ],
-      "privacy_blurb": "MathSpark funziona completamente offline e non raccoglie nulla.",
+      "privacy_blurb": "NumZen funziona completamente offline e non raccoglie nulla.",
       "disclaimer": ""
     }
   },

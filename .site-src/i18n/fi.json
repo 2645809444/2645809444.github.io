@@ -124,11 +124,11 @@
       "privacy_blurb": "Paastohistoriasi ei koskaan poistu iPhonestasi.",
       "disclaimer": "FastZen on ajastin- ja kirjaustyökalu, ei lääketieteellinen neuvo. Keskustele terveydenhuollon ammattilaisen kanssa ennen paaston aloittamista."
     },
-    "mathspark": {
-      "tagline": "Yksi pulma päivässä. Koko maailma pelaa.",
+    "numzen": {
+      "tagline": "Kolme pulmaa päivässä. Koko maailma pelaa.",
       "card_desc": "Päivittäisiä päässälaskupulmia opettavilla vihjeillä.",
       "subtitle": "Päivittäiset päässälaskupulmat — sama haaste kaikille maailmassa, vihjeillä jotka opettavat paljastamatta ratkaisua.",
-      "meta_desc": "MathSpark tarjoaa päivittäisiä numeropulmia — sama haaste kaikille, opettavat vihjeet. Täysin offline ja yksityinen.",
+      "meta_desc": "NumZen tarjoaa päivittäisiä numeropulmia — sama haaste kaikille, opettavat vihjeet. Täysin offline ja yksityinen.",
       "features": [
         {
           "t": "Päivittäinen globaali haaste",
@@ -144,10 +144,10 @@
         },
         {
           "t": "Premium kertaostona",
-          "d": "Rajaton harjoittelu, vaikeammat tasot ja täydet tilastot. Ei tilausta."
+          "d": "Rajattomasti harjoituksia, omasi ikuisesti. Ei tilausta."
         }
       ],
-      "privacy_blurb": "MathSpark toimii täysin offline-tilassa eikä kerää mitään.",
+      "privacy_blurb": "NumZen toimii täysin offline-tilassa eikä kerää mitään.",
       "disclaimer": ""
     }
   },

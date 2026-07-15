@@ -124,11 +124,11 @@
       "privacy_blurb": "Twoja historia postów nigdy nie opuszcza iPhone'a.",
       "disclaimer": "FastZen to narzędzie do odmierzania czasu i notowania, nie porada medyczna. Przed rozpoczęciem postu skonsultuj się z lekarzem."
     },
-    "mathspark": {
-      "tagline": "Jedna łamigłówka dziennie. Gra cały świat.",
+    "numzen": {
+      "tagline": "Trzy łamigłówki dziennie. Gra cały świat.",
       "card_desc": "Codzienne łamigłówki liczbowe z podpowiedziami, które uczą.",
       "subtitle": "Codzienne łamigłówki na liczenie w pamięci — to samo wyzwanie dla wszystkich na świecie, z podpowiedziami, które uczą zamiast zdradzać.",
-      "meta_desc": "MathSpark serwuje codzienne łamigłówki liczbowe — to samo wyzwanie dla wszystkich, z edukacyjnymi podpowiedziami. Całkowicie offline i prywatnie.",
+      "meta_desc": "NumZen serwuje codzienne łamigłówki liczbowe — to samo wyzwanie dla wszystkich, z edukacyjnymi podpowiedziami. Całkowicie offline i prywatnie.",
       "features": [
         {
           "t": "Codzienne globalne wyzwanie",
@@ -144,10 +144,10 @@
         },
         {
           "t": "Premium za jednorazową opłatą",
-          "d": "Nieograniczony trening, wyższe poziomy trudności i pełne statystyki. Bez subskrypcji."
+          "d": "Nieograniczone ćwiczenia na zawsze. Bez subskrypcji."
         }
       ],
-      "privacy_blurb": "MathSpark działa całkowicie offline i niczego nie zbiera.",
+      "privacy_blurb": "NumZen działa całkowicie offline i niczego nie zbiera.",
       "disclaimer": ""
     }
   },

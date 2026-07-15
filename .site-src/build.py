@@ -71,7 +71,7 @@ def process_images():
         "quickcost": ROOT.parent / "001/QuickCost/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
         "decibelmeter": ROOT.parent / "002/DecibelMeter/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
         "fastzen": ROOT.parent / "003/FastZen/Assets.xcassets/AppIcon.appiconset/AppIcon1024.png",
-        "mathspark": ROOT.parent / "004/MathSpark/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
+        "numzen": ROOT.parent / "004/NumZen/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
     }
     for slug, src in icon_map.items():
         if src.exists():

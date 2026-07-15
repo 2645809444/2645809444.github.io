@@ -124,11 +124,11 @@
       "privacy_blurb": "Vaše historie půstů nikdy neopustí iPhone.",
       "disclaimer": "FastZen je nástroj pro časování a záznam, nikoli lékařská rada. Před zahájením půstu se poraďte s lékařem."
     },
-    "mathspark": {
-      "tagline": "Jeden hlavolam denně. Hraje celý svět.",
+    "numzen": {
+      "tagline": "Tři hádanky denně. Hraje celý svět.",
       "card_desc": "Denní hlavolamy na počítání zpaměti s nápovědami, které učí.",
       "subtitle": "Denní hlavolamy na počítání zpaměti — stejná výzva pro všechny na světě, s nápovědami, které učí místo prozrazování.",
-      "meta_desc": "MathSpark nabízí denní číselné hlavolamy — stejnou výzvu pro všechny, s poučnými nápovědami. Zcela offline a soukromě.",
+      "meta_desc": "NumZen nabízí denní číselné hlavolamy — stejnou výzvu pro všechny, s poučnými nápovědami. Zcela offline a soukromě.",
       "features": [
         {
           "t": "Denní globální výzva",
@@ -144,10 +144,10 @@
         },
         {
           "t": "Premium jednorázově",
-          "d": "Neomezené procvičování, vyšší obtížnosti a úplné statistiky. Žádné předplatné."
+          "d": "Neomezené procvičování navždy. Žádné předplatné."
         }
       ],
-      "privacy_blurb": "MathSpark funguje zcela offline a nic nesbírá.",
+      "privacy_blurb": "NumZen funguje zcela offline a nic nesbírá.",
       "disclaimer": ""
     }
   },

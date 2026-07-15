@@ -124,11 +124,11 @@
       "privacy_blurb": "Riwayat puasa Anda tidak pernah meninggalkan iPhone.",
       "disclaimer": "FastZen adalah alat timer dan pencatatan, bukan saran medis. Konsultasikan dengan tenaga kesehatan sebelum memulai puasa apa pun."
     },
-    "mathspark": {
-      "tagline": "Satu teka-teki sehari. Seluruh dunia bermain.",
+    "numzen": {
+      "tagline": "Tiga teka-teki setiap hari. Seluruh dunia bermain.",
       "card_desc": "Teka-teki hitung mental harian dengan petunjuk yang mengajari.",
       "subtitle": "Teka-teki hitung mental harian — tantangan yang sama untuk semua orang di dunia, dengan petunjuk yang mengajari alih-alih membocorkan.",
-      "meta_desc": "MathSpark menyajikan teka-teki angka harian — tantangan yang sama untuk semua, dengan petunjuk edukatif. Sepenuhnya offline dan privat.",
+      "meta_desc": "NumZen menyajikan teka-teki angka harian — tantangan yang sama untuk semua, dengan petunjuk edukatif. Sepenuhnya offline dan privat.",
       "features": [
         {
           "t": "Tantangan global harian",
@@ -144,10 +144,10 @@
         },
         {
           "t": "Premium sekali bayar",
-          "d": "Latihan tanpa batas, tingkat lebih sulit, dan statistik lengkap. Tanpa langganan."
+          "d": "Latihan tanpa batas, milik Anda selamanya. Tanpa langganan."
         }
       ],
-      "privacy_blurb": "MathSpark bekerja sepenuhnya offline dan tidak mengumpulkan apa pun.",
+      "privacy_blurb": "NumZen bekerja sepenuhnya offline dan tidak mengumpulkan apa pun.",
       "disclaimer": ""
     }
   },
