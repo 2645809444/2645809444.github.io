@@ -1,12 +1,12 @@
 # Qiuyufei Apps 官网（矩阵 App #000）
 
 静态官网，托管全部矩阵 App 的产品页、隐私政策和支持页。
-部署为 GitHub Pages 用户主页仓库：`qiuyufei.github.io`。
+部署为 GitHub Pages 用户主页仓库：`2645809444.github.io`。
 
 ## 线上地址
 
-- 首页：https://qiuyufei.github.io/
-- 各 App：`https://qiuyufei.github.io/<app>/`（产品页）、
+- 首页：https://2645809444.github.io/
+- 各 App：`https://2645809444.github.io/<app>/`（产品页）、
   `/<app>/privacy.html`（隐私政策）、`/<app>/support.html`（支持页）
 
 ## 目录结构
