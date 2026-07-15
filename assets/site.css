@@ -147,6 +147,8 @@ a { color: var(--cyan); }
   pointer-events: none;
 }
 
+.hero-inner { position: relative; }
+
 .hero-kicker {
   display: inline-block;
   font-size: 0.8rem;
