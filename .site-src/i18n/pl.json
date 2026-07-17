@@ -149,6 +149,32 @@
       ],
       "privacy_blurb": "NumZen działa całkowicie offline i niczego nie zbiera.",
       "disclaimer": ""
+    },
+    "gloomfall": {
+      "tagline": "Każdy ruch wroga jest zapowiedziany.",
+      "card_desc": "Taktyczne RPG dark fantasy, stworzone do gry jedną ręką.",
+      "subtitle": "Taktyczne RPG dark fantasy, w którym każdy atak wroga jest zapowiedziany — bez szans trafienia, bez kości. Rozbuduj twierdzę, opłakuj poległych.",
+      "meta_desc": "Gloomfall to taktyczne RPG dark fantasy na iPhone'a: deterministyczne bitwy 7×7, rozgałęzione wyprawy, permanentna śmierć i twierdza do rozbudowy. W pełni offline i prywatnie.",
+      "features": [
+        {
+          "t": "Deterministyczna taktyka",
+          "d": "Każdy wróg pokazuje, gdzie uderzy. Przechytrz go — bez kości, bez wymówek."
+        },
+        {
+          "t": "Rozgałęzione wyprawy",
+          "d": "Bitwy, wydarzenia, kupcy i obozy w trzech regionach oraz bezkresnej Otchłani."
+        },
+        {
+          "t": "Twierdza warta obrony",
+          "d": "Sześć klas, 36 umiejętności, ekwipunek z losowymi cechami — i ściana pamięci dla poległych."
+        },
+        {
+          "t": "Jedna uczciwa cena",
+          "d": "Region pierwszy, trzy klasy i codzienna wyprawa są darmowe na zawsze. Jeden zakup odblokowuje resztę."
+        }
+      ],
+      "privacy_blurb": "Gloomfall działa w pełni offline i niczego nie zbiera.",
+      "disclaimer": ""
     }
   },
   "sections": {
@@ -159,7 +185,7 @@
   },
   "teaser": {
     "badge": "W produkcji",
-    "title": "Project 005",
+    "title": "Project 006",
     "desc": "Coś nowego jarzy się w ciemności. Na razie bez spoilerów."
   },
   "about": {

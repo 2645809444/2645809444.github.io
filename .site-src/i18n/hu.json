@@ -149,6 +149,32 @@
       ],
       "privacy_blurb": "A NumZen teljesen offline működik, és semmit nem gyűjt.",
       "disclaimer": ""
+    },
+    "gloomfall": {
+      "tagline": "Az ellenség minden lépése előre be van jelentve.",
+      "card_desc": "Egykezes irányításra tervezett sötét fantasy taktikai RPG.",
+      "subtitle": "Sötét fantasy taktikai RPG, ahol az ellenség minden támadása előre be van jelentve — nincs találati esély, nincs kocka. Építsd fel erődödet, gyászold elesetteidet.",
+      "meta_desc": "A Gloomfall sötét fantasy taktikai RPG iPhone-ra: determinisztikus 7×7-es csaták, elágazó expedíciók, végleges halál és felépítendő erőd. Teljesen offline és privát.",
+      "features": [
+        {
+          "t": "Determinisztikus taktika",
+          "d": "Minden ellenség megmutatja, hová fog lecsapni. Járj túl az eszén — se kocka, se kifogás."
+        },
+        {
+          "t": "Elágazó expedíciók",
+          "d": "Csaták, események, kereskedők és táborok három régióban és a végtelen Mélységben."
+        },
+        {
+          "t": "Egy erőd, amit érdemes védeni",
+          "d": "Hat kaszt, 36 képesség, véletlenszerű tulajdonságú felszerelés — és emlékfal az elesetteknek."
+        },
+        {
+          "t": "Egyetlen tisztességes ár",
+          "d": "Az első régió, három kaszt és a napi expedíció örökre ingyenes. Egyetlen vásárlás feloldja a többit."
+        }
+      ],
+      "privacy_blurb": "A Gloomfall teljesen offline működik, és semmit nem gyűjt.",
+      "disclaimer": ""
     }
   },
   "sections": {
@@ -159,7 +185,7 @@
   },
   "teaser": {
     "badge": "Fejlesztés alatt",
-    "title": "Project 005",
+    "title": "Project 006",
     "desc": "Valami új izzik a sötétben. Egyelőre nincs spoiler."
   },
   "about": {

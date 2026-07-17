@@ -149,6 +149,32 @@
       ],
       "privacy_blurb": "NumZen toimii täysin offline-tilassa eikä kerää mitään.",
       "disclaimer": ""
+    },
+    "gloomfall": {
+      "tagline": "Vihollisen jokainen siirto kerrotaan etukäteen.",
+      "card_desc": "Synkän fantasian taktiikka-RPG, suunniteltu yhdelle kädelle.",
+      "subtitle": "Synkän fantasian taktiikka-RPG, jossa vihollisen jokainen hyökkäys kerrotaan etukäteen — ei osumatodennäköisyyksiä, ei noppia. Rakenna linnoituksesi, sure kaatuneitasi.",
+      "meta_desc": "Gloomfall on synkän fantasian taktiikka-RPG iPhonelle: deterministiset 7×7-taistelut, haarautuvat tutkimusretket, pysyvä kuolema ja rakennettava linnoitus. Täysin offline ja yksityinen.",
+      "features": [
+        {
+          "t": "Determinististä taktiikkaa",
+          "d": "Jokainen vihollinen näyttää, mihin se iskee. Päihitä se — ei noppia, ei tekosyitä."
+        },
+        {
+          "t": "Haarautuvat tutkimusretket",
+          "d": "Taisteluita, tapahtumia, kauppiaita ja leirejä kolmella alueella ja loputtomassa Syvyydessä."
+        },
+        {
+          "t": "Puolustamisen arvoinen linnoitus",
+          "d": "Kuusi hahmoluokkaa, 36 taitoa, satunnaisin ominaisuuksin varustettuja varusteita — ja muistoseinä kaatuneille."
+        },
+        {
+          "t": "Yksi rehellinen hinta",
+          "d": "Alue yksi, kolme hahmoluokkaa ja päivittäinen retki ovat ilmaisia ikuisesti. Yksi ostos avaa loput."
+        }
+      ],
+      "privacy_blurb": "Gloomfall toimii täysin offline-tilassa eikä kerää mitään.",
+      "disclaimer": ""
     }
   },
   "sections": {
@@ -159,7 +185,7 @@
   },
   "teaser": {
     "badge": "Kehitteillä",
-    "title": "Project 005",
+    "title": "Project 006",
     "desc": "Jotain uutta hehkuu pimeydessä. Ei spoilereita vielä."
   },
   "about": {

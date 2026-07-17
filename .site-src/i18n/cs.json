@@ -149,6 +149,32 @@
       ],
       "privacy_blurb": "NumZen funguje zcela offline a nic nesbírá.",
       "disclaimer": ""
+    },
+    "gloomfall": {
+      "tagline": "Každý tah nepřítele je ohlášen předem.",
+      "card_desc": "Temné fantasy taktické RPG stvořené pro jednu ruku.",
+      "subtitle": "Temné fantasy taktické RPG, kde je každý útok nepřítele ohlášen předem — žádné šance na zásah, žádné kostky. Budujte svou pevnost, truchlete za padlé.",
+      "meta_desc": "Gloomfall je temné fantasy taktické RPG pro iPhone: deterministické bitvy 7×7, větvící se výpravy, permanentní smrt a pevnost k budování. Zcela offline a soukromé.",
+      "features": [
+        {
+          "t": "Deterministická taktika",
+          "d": "Každý nepřítel ukáže, kam udeří. Přechytračte ho — žádné kostky, žádné výmluvy."
+        },
+        {
+          "t": "Větvící se výpravy",
+          "d": "Bitvy, události, obchodníci a tábory napříč třemi regiony a nekonečnou Propastí."
+        },
+        {
+          "t": "Pevnost, kterou stojí za to bránit",
+          "d": "Šest povolání, 36 dovedností, vybavení s náhodnými vlastnostmi — a pamětní zeď pro padlé."
+        },
+        {
+          "t": "Jedna poctivá cena",
+          "d": "První region, tři povolání a denní výprava jsou navždy zdarma. Jediný nákup odemkne zbytek."
+        }
+      ],
+      "privacy_blurb": "Gloomfall funguje zcela offline a nic nesbírá.",
+      "disclaimer": ""
     }
   },
   "sections": {
@@ -159,7 +185,7 @@
   },
   "teaser": {
     "badge": "Ve vývoji",
-    "title": "Project 005",
+    "title": "Project 006",
     "desc": "Ve tmě září něco nového. Zatím bez spoilerů."
   },
   "about": {

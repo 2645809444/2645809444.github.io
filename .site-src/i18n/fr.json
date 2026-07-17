@@ -149,6 +149,32 @@
       ],
       "privacy_blurb": "NumZen fonctionne entièrement hors ligne et ne collecte rien.",
       "disclaimer": ""
+    },
+    "gloomfall": {
+      "tagline": "Chaque coup ennemi est annoncé.",
+      "card_desc": "Un RPG tactique dark fantasy conçu pour une main.",
+      "subtitle": "Un RPG tactique dark fantasy où chaque attaque ennemie est annoncée : pas de probabilité de toucher, pas de dés. Bâtissez votre forteresse, pleurez vos morts.",
+      "meta_desc": "Gloomfall est un RPG tactique dark fantasy pour iPhone : batailles déterministes en 7×7, expéditions à embranchements, mort permanente et une forteresse à bâtir. Entièrement hors ligne et privé.",
+      "features": [
+        {
+          "t": "Tactique déterministe",
+          "d": "Chaque ennemi montre où il va frapper. Déjouez-le — pas de dés, pas d'excuses."
+        },
+        {
+          "t": "Expéditions à embranchements",
+          "d": "Batailles, événements, marchands et campements à travers trois régions et l'Abîme sans fin."
+        },
+        {
+          "t": "Une forteresse à défendre",
+          "d": "Six classes, 36 compétences, un équipement aux attributs aléatoires — et un mur du souvenir pour les disparus."
+        },
+        {
+          "t": "Un prix honnête",
+          "d": "La région 1, trois classes et l'expédition quotidienne sont gratuites pour toujours. Un seul achat débloque le reste."
+        }
+      ],
+      "privacy_blurb": "Gloomfall fonctionne entièrement hors ligne et ne collecte rien.",
+      "disclaimer": ""
     }
   },
   "sections": {
@@ -159,7 +185,7 @@
   },
   "teaser": {
     "badge": "En développement",
-    "title": "Project 005",
+    "title": "Project 006",
     "desc": "Quelque chose de nouveau luit dans l'obscurité. Pas de spoiler pour l'instant."
   },
   "about": {

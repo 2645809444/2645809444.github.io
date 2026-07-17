@@ -149,6 +149,32 @@
       ],
       "privacy_blurb": "NumZen tamamen çevrimdışı çalışır ve hiçbir şey toplamaz.",
       "disclaimer": ""
+    },
+    "gloomfall": {
+      "tagline": "Düşmanın her hamlesi önceden gösterilir.",
+      "card_desc": "Tek el için tasarlanmış karanlık fantezi taktik RPG'si.",
+      "subtitle": "Her düşman saldırısının önceden gösterildiği bir karanlık fantezi taktik RPG'si — isabet şansı yok, zar yok. Kaleni inşa et, ölülerinin yasını tut.",
+      "meta_desc": "Gloomfall, iPhone için bir karanlık fantezi taktik RPG'si: deterministik 7×7 savaşlar, dallanan seferler, kalıcı ölüm ve inşa edilecek bir kale. Tamamen çevrimdışı ve gizli.",
+      "features": [
+        {
+          "t": "Deterministik taktik",
+          "d": "Her düşman nereye vuracağını gösterir. Onu akılla alt et — zar yok, bahane yok."
+        },
+        {
+          "t": "Dallanan seferler",
+          "d": "Üç bölge ve sonsuz Uçurum boyunca savaşlar, olaylar, tüccarlar ve kamplar."
+        },
+        {
+          "t": "Savunmaya değer bir kale",
+          "d": "Altı sınıf, 36 beceri, rastgele nitelikli ekipman — ve düşenler için bir anma duvarı."
+        },
+        {
+          "t": "Tek dürüst fiyat",
+          "d": "Birinci bölge, üç sınıf ve günlük sefer sonsuza dek ücretsiz. Tek bir satın alma geri kalan her şeyi açar."
+        }
+      ],
+      "privacy_blurb": "Gloomfall tamamen çevrimdışı çalışır ve hiçbir şey toplamaz.",
+      "disclaimer": ""
     }
   },
   "sections": {
@@ -159,7 +185,7 @@
   },
   "teaser": {
     "badge": "Geliştiriliyor",
-    "title": "Project 005",
+    "title": "Project 006",
     "desc": "Karanlıkta yeni bir şey parlıyor. Şimdilik spoiler yok."
   },
   "about": {

@@ -149,6 +149,32 @@
       ],
       "privacy_blurb": "NumZen berfungsi sepenuhnya luar talian dan tidak mengumpul apa-apa.",
       "disclaimer": ""
+    },
+    "gloomfall": {
+      "tagline": "Setiap gerakan musuh diberitahu lebih awal.",
+      "card_desc": "RPG taktik fantasi gelap yang direka untuk satu tangan.",
+      "subtitle": "RPG taktik fantasi gelap di mana setiap serangan musuh diberitahu lebih awal — tiada peluang kena, tiada dadu. Bina kubu anda, ratapi yang gugur.",
+      "meta_desc": "Gloomfall ialah RPG taktik fantasi gelap untuk iPhone: pertempuran deterministik 7×7, ekspedisi bercabang, kematian kekal dan kubu untuk dibina. Sepenuhnya luar talian dan peribadi.",
+      "features": [
+        {
+          "t": "Taktik deterministik",
+          "d": "Setiap musuh menunjukkan di mana ia akan menyerang. Tewaskannya dengan strategi — tiada dadu, tiada alasan."
+        },
+        {
+          "t": "Ekspedisi bercabang",
+          "d": "Pertempuran, peristiwa, pedagang dan perkhemahan merentasi tiga wilayah serta Jurang yang tiada penghujung."
+        },
+        {
+          "t": "Kubu yang berbaloi dipertahankan",
+          "d": "Enam kelas, 36 kemahiran, kelengkapan beratribut rawak — dan dinding memorial untuk yang gugur."
+        },
+        {
+          "t": "Satu harga yang jujur",
+          "d": "Wilayah satu, tiga kelas dan ekspedisi harian percuma selama-lamanya. Satu pembelian membuka yang selebihnya."
+        }
+      ],
+      "privacy_blurb": "Gloomfall berfungsi sepenuhnya luar talian dan tidak mengumpul apa-apa.",
+      "disclaimer": ""
     }
   },
   "sections": {
@@ -159,7 +185,7 @@
   },
   "teaser": {
     "badge": "Dalam pembangunan",
-    "title": "Project 005",
+    "title": "Project 006",
     "desc": "Sesuatu yang baharu bersinar dalam gelap. Tiada pembocoran buat masa ini."
   },
   "about": {

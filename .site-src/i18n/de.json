@@ -149,6 +149,32 @@
       ],
       "privacy_blurb": "NumZen funktioniert komplett offline und sammelt nichts.",
       "disclaimer": ""
+    },
+    "gloomfall": {
+      "tagline": "Jeder Zug des Feindes ist angekündigt.",
+      "card_desc": "Ein düsteres Fantasy-Taktik-RPG für eine Hand.",
+      "subtitle": "Ein düsteres Fantasy-Taktik-RPG, in dem jeder feindliche Angriff angekündigt ist — keine Trefferchancen, keine Würfel. Baue deine Festung, betrauere deine Gefallenen.",
+      "meta_desc": "Gloomfall ist ein düsteres Fantasy-Taktik-RPG fürs iPhone: deterministische 7×7-Kämpfe, verzweigte Expeditionen, Permadeath und eine Festung zum Ausbauen. Komplett offline und privat.",
+      "features": [
+        {
+          "t": "Deterministische Taktik",
+          "d": "Jeder Feind zeigt, wo er zuschlagen wird. Spiel ihn aus — keine Würfel, keine Ausreden."
+        },
+        {
+          "t": "Verzweigte Expeditionen",
+          "d": "Kämpfe, Ereignisse, Händler und Lager in drei Regionen und dem endlosen Abgrund."
+        },
+        {
+          "t": "Eine Festung, die sich lohnt",
+          "d": "Sechs Klassen, 36 Fähigkeiten, ausgewürfelte Ausrüstung — und eine Gedenkwand für die Gefallenen."
+        },
+        {
+          "t": "Ein ehrlicher Preis",
+          "d": "Region eins, drei Klassen und die tägliche Expedition sind für immer gratis. Ein Einmalkauf schaltet den Rest frei."
+        }
+      ],
+      "privacy_blurb": "Gloomfall funktioniert komplett offline und erhebt nichts.",
+      "disclaimer": ""
     }
   },
   "sections": {
@@ -159,7 +185,7 @@
   },
   "teaser": {
     "badge": "In Entwicklung",
-    "title": "Project 005",
+    "title": "Project 006",
     "desc": "Etwas Neues glüht im Dunkeln. Noch keine Spoiler."
   },
   "about": {

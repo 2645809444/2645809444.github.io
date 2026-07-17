@@ -149,6 +149,32 @@
       ],
       "privacy_blurb": "NumZen hoạt động hoàn toàn ngoại tuyến và không thu thập gì.",
       "disclaimer": ""
+    },
+    "gloomfall": {
+      "tagline": "Mọi nước đi của kẻ địch đều được báo trước.",
+      "card_desc": "Game RPG chiến thuật fantasy u tối, thiết kế cho một tay.",
+      "subtitle": "Game RPG chiến thuật fantasy u tối, nơi mọi đòn tấn công của kẻ địch đều được báo trước — không tỷ lệ trúng, không xúc xắc. Xây pháo đài của bạn, tưởng nhớ những người đã ngã xuống.",
+      "meta_desc": "Gloomfall là game RPG chiến thuật fantasy u tối cho iPhone: trận đánh tất định 7×7, viễn chinh phân nhánh, cái chết vĩnh viễn và một pháo đài để xây dựng. Hoàn toàn ngoại tuyến và riêng tư.",
+      "features": [
+        {
+          "t": "Chiến thuật tất định",
+          "d": "Mọi kẻ địch đều cho thấy nơi nó sẽ tấn công. Hãy cao tay hơn — không xúc xắc, không bao biện."
+        },
+        {
+          "t": "Viễn chinh phân nhánh",
+          "d": "Trận đánh, sự kiện, thương nhân và trại nghỉ trải khắp ba vùng đất và Vực Thẳm vô tận."
+        },
+        {
+          "t": "Pháo đài đáng để bảo vệ",
+          "d": "Sáu lớp nhân vật, 36 kỹ năng, trang bị chỉ số ngẫu nhiên — và bức tường tưởng niệm những người đã ngã xuống."
+        },
+        {
+          "t": "Một mức giá trung thực",
+          "d": "Vùng một, ba lớp nhân vật và chuyến viễn chinh hằng ngày miễn phí mãi mãi. Một lần mua mở khóa toàn bộ phần còn lại."
+        }
+      ],
+      "privacy_blurb": "Gloomfall hoạt động hoàn toàn ngoại tuyến và không thu thập gì.",
+      "disclaimer": ""
     }
   },
   "sections": {
@@ -159,7 +185,7 @@
   },
   "teaser": {
     "badge": "Đang phát triển",
-    "title": "Project 005",
+    "title": "Project 006",
     "desc": "Điều gì đó mới đang phát sáng trong bóng tối. Chưa tiết lộ."
   },
   "about": {

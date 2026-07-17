@@ -22,6 +22,21 @@
       "store_url": ""
     },
     {
+      "slug": "gloomfall",
+      "name": "Gloomfall",
+      "kind": "game",
+      "accent": "#E8853D",
+      "accent_dark": "#171512",
+      "gradient": [
+        "#E8853D",
+        "#B85A1E"
+      ],
+      "category_key": "games",
+      "letter": "G",
+      "released": false,
+      "store_url": ""
+    },
+    {
       "slug": "quickcost",
       "name": "QuickCost",
       "kind": "tool",

@@ -149,6 +149,32 @@
       ],
       "privacy_blurb": "O NumZen funciona totalmente offline e não recolhe nada.",
       "disclaimer": ""
+    },
+    "gloomfall": {
+      "tagline": "Cada movimento inimigo é anunciado.",
+      "card_desc": "Um RPG tático de fantasia sombria feito para uma mão.",
+      "subtitle": "Um RPG tático de fantasia sombria em que cada ataque inimigo é anunciado — sem probabilidades de acerto, sem dados. Construa a sua fortaleza, chore os seus mortos.",
+      "meta_desc": "O Gloomfall é um RPG tático de fantasia sombria para iPhone: batalhas determinísticas 7×7, expedições ramificadas, morte permanente e uma fortaleza para construir. Totalmente offline e privado.",
+      "features": [
+        {
+          "t": "Tática determinística",
+          "d": "Cada inimigo mostra onde vai atacar. Supere-o com estratégia — sem dados, sem desculpas."
+        },
+        {
+          "t": "Expedições ramificadas",
+          "d": "Batalhas, eventos, mercadores e acampamentos por três regiões e o Abismo sem fim."
+        },
+        {
+          "t": "Uma fortaleza digna de defesa",
+          "d": "Seis classes, 36 competências, equipamento com atributos aleatórios — e um muro memorial para os caídos."
+        },
+        {
+          "t": "Um preço honesto",
+          "d": "A região um, três classes e a expedição diária são gratuitas para sempre. Uma única compra desbloqueia o resto."
+        }
+      ],
+      "privacy_blurb": "O Gloomfall funciona totalmente offline e não recolhe nada.",
+      "disclaimer": ""
     }
   },
   "sections": {
@@ -159,7 +185,7 @@
   },
   "teaser": {
     "badge": "Em desenvolvimento",
-    "title": "Project 005",
+    "title": "Project 006",
     "desc": "Algo novo brilha na escuridão. Sem spoilers, para já."
   },
   "about": {

@@ -149,6 +149,32 @@
       ],
       "privacy_blurb": "NumZen fungerer helt offline og samler ikke inn noe.",
       "disclaimer": ""
+    },
+    "gloomfall": {
+      "tagline": "Hvert fiendetrekk varsles på forhånd.",
+      "card_desc": "Et mørkt fantasy-taktikk-RPG laget for én hånd.",
+      "subtitle": "Et mørkt fantasy-taktikk-RPG der hvert fiendeangrep varsles på forhånd — ingen treffsjanser, ingen terninger. Bygg borgen din, sørg over dine falne.",
+      "meta_desc": "Gloomfall er et mørkt fantasy-taktikk-RPG for iPhone: deterministiske 7×7-kamper, forgrenede ekspedisjoner, permadød og en borg å bygge. Helt offline og privat.",
+      "features": [
+        {
+          "t": "Deterministisk taktikk",
+          "d": "Hver fiende viser hvor den vil slå til. Utmanøvrer den — ingen terninger, ingen unnskyldninger."
+        },
+        {
+          "t": "Forgrenede ekspedisjoner",
+          "d": "Kamper, hendelser, kjøpmenn og leirer i tre regioner og den endeløse Avgrunnen."
+        },
+        {
+          "t": "En borg verdt å forsvare",
+          "d": "Seks klasser, 36 ferdigheter, utstyr med tilfeldige egenskaper — og en minnevegg for de falne."
+        },
+        {
+          "t": "Én ærlig pris",
+          "d": "Region én, tre klasser og den daglige ekspedisjonen er gratis for alltid. Ett kjøp låser opp resten."
+        }
+      ],
+      "privacy_blurb": "Gloomfall fungerer helt offline og samler ikke inn noe.",
+      "disclaimer": ""
     }
   },
   "sections": {
@@ -159,7 +185,7 @@
   },
   "teaser": {
     "badge": "Under utvikling",
-    "title": "Project 005",
+    "title": "Project 006",
     "desc": "Noe nytt gløder i mørket. Ingen spoilere ennå."
   },
   "about": {

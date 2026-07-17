@@ -149,6 +149,32 @@
       ],
       "privacy_blurb": "NumZen funcționează complet offline și nu colectează nimic.",
       "disclaimer": ""
+    },
+    "gloomfall": {
+      "tagline": "Fiecare mutare a inamicului este anunțată.",
+      "card_desc": "Un RPG tactic dark fantasy conceput pentru o singură mână.",
+      "subtitle": "Un RPG tactic dark fantasy în care fiecare atac inamic este anunțat — fără șanse de lovire, fără zaruri. Construiește-ți fortăreața, plânge-ți morții.",
+      "meta_desc": "Gloomfall este un RPG tactic dark fantasy pentru iPhone: bătălii deterministe 7×7, expediții ramificate, moarte permanentă și o fortăreață de construit. Complet offline și privat.",
+      "features": [
+        {
+          "t": "Tactică deterministă",
+          "d": "Fiecare inamic arată unde va lovi. Întrece-l în strategie — fără zaruri, fără scuze."
+        },
+        {
+          "t": "Expediții ramificate",
+          "d": "Bătălii, evenimente, negustori și tabere în trei regiuni și Abisul fără sfârșit."
+        },
+        {
+          "t": "O fortăreață demnă de apărat",
+          "d": "Șase clase, 36 de abilități, echipament cu atribute aleatorii — și un zid memorial pentru cei căzuți."
+        },
+        {
+          "t": "Un preț onest",
+          "d": "Regiunea unu, trei clase și expediția zilnică sunt gratuite pentru totdeauna. O singură achiziție deblochează restul."
+        }
+      ],
+      "privacy_blurb": "Gloomfall funcționează complet offline și nu colectează nimic.",
+      "disclaimer": ""
     }
   },
   "sections": {
@@ -159,7 +185,7 @@
   },
   "teaser": {
     "badge": "În dezvoltare",
-    "title": "Project 005",
+    "title": "Project 006",
     "desc": "Ceva nou strălucește în întuneric. Fără spoilere deocamdată."
   },
   "about": {

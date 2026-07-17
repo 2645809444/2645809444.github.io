@@ -149,6 +149,32 @@
       ],
       "privacy_blurb": "NumZen bekerja sepenuhnya offline dan tidak mengumpulkan apa pun.",
       "disclaimer": ""
+    },
+    "gloomfall": {
+      "tagline": "Setiap gerakan musuh diumumkan lebih dulu.",
+      "card_desc": "RPG taktik fantasi kelam yang dirancang untuk satu tangan.",
+      "subtitle": "RPG taktik fantasi kelam di mana setiap serangan musuh diumumkan lebih dulu — tanpa peluang kena, tanpa dadu. Bangun bentengmu, kenang yang gugur.",
+      "meta_desc": "Gloomfall adalah RPG taktik fantasi kelam untuk iPhone: pertempuran deterministik 7×7, ekspedisi bercabang, kematian permanen, dan benteng untuk dibangun. Sepenuhnya offline dan privat.",
+      "features": [
+        {
+          "t": "Taktik deterministik",
+          "d": "Setiap musuh menunjukkan di mana ia akan menyerang. Kalahkan dengan strategi — tanpa dadu, tanpa alasan."
+        },
+        {
+          "t": "Ekspedisi bercabang",
+          "d": "Pertempuran, peristiwa, pedagang, dan perkemahan di tiga wilayah serta Jurang tanpa akhir."
+        },
+        {
+          "t": "Benteng yang layak dipertahankan",
+          "d": "Enam kelas, 36 skill, perlengkapan beratribut acak — dan dinding peringatan bagi yang gugur."
+        },
+        {
+          "t": "Satu harga yang jujur",
+          "d": "Wilayah satu, tiga kelas, dan ekspedisi harian gratis selamanya. Satu kali pembelian membuka sisanya."
+        }
+      ],
+      "privacy_blurb": "Gloomfall bekerja sepenuhnya offline dan tidak mengumpulkan apa pun.",
+      "disclaimer": ""
     }
   },
   "sections": {
@@ -159,7 +185,7 @@
   },
   "teaser": {
     "badge": "Dalam pengembangan",
-    "title": "Project 005",
+    "title": "Project 006",
     "desc": "Sesuatu yang baru bersinar dalam gelap. Belum ada bocoran."
   },
   "about": {
